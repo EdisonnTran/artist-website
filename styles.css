@@ -46,3 +46,20 @@ a.visiting {
     margin: 0 32px;
 }
 
+.about {
+    margin: 0 128px;
+    display: flex;
+    justify-content: center;
+}
+
+.desc {
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.about img {
+    height: 25vw;
+    width: 50vh;
+}
+
