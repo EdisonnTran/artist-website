@@ -4,7 +4,29 @@
 }
 
 body {
+    background-color: black;
     text-align: center;
     font-family: rainyhearts;
     font-size: 32px;
+    color: white;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    gap: 32px;
+}
+
+a, a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.works {
+    display: flex;
+    flex-wrap: wrap;
+    border: 10px red solid;
+    justify-content: center;
+    margin: 0 50vh;
 }
