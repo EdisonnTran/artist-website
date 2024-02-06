@@ -1,1 +1,0 @@
-# beevisart.github.io
