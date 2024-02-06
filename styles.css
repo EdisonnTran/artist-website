@@ -29,9 +29,20 @@ a, a:visited {
     text-decoration: none;
 }
 
+a.visiting {
+    color: blueviolet;
+}
+
 .works {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     margin: 0 8vh;
 }
+
+.icon {
+    width: 100px;
+    height: 100px;
+    margin: 0 32px;
+}
+
