@@ -4,11 +4,17 @@
 }
 
 body {
-    background-color: black;
+    background-color: white;
     text-align: center;
     font-family: rainyhearts;
     font-size: 32px;
-    color: white;
+    color: purple;
+}
+
+h1 {
+    font-size: 128px;
+    margin: 0;
+    padding: 0;
 }
 
 ul {
@@ -19,14 +25,13 @@ ul {
 }
 
 a, a:visited {
-    color: white;
+    color: purple;
     text-decoration: none;
 }
 
 .works {
     display: flex;
     flex-wrap: wrap;
-    border: 10px red solid;
     justify-content: center;
-    margin: 0 50vh;
+    margin: 0 8vh;
 }
